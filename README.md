@@ -129,7 +129,7 @@ Being upfront about these so the numbers are read correctly:
 
 ## Author
 
-**Deepak**
+**Deepak Chaudhary**
 B.Tech Computer Science (Data Science)
 
 _Feel free to open an issue or reach out with feedback._
