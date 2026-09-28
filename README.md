@@ -122,9 +122,18 @@ Being upfront about these so the numbers are read correctly:
 ## Repository Structure
 
 ```
-├── Excel_Final_Dashboard_Project1.xlsx   # Full workbook
-├── Sales_Dashboard.png                   # Dashboard screenshot
-└── README.md
+├── Excel_Final_Dashboard_Project1.xlsx   # Full workbook (dashboard, pivots, cleaned + raw data)
+├── Sales_Dashboard.png                   # Dashboard screenshot (shown at the top of this README)
+├── README.md
+├── images/                               # Individual chart screenshots
+│   ├── Average.png
+│   ├── Quantity.png
+│   ├── Sales.png
+│   └── Transactions.png
+├── data/
+│   └── Warehouse_and_Retail_Sales.xlsx   # Global retail dataset (reference data)
+└── docs/
+    └── 12302841 excel report.docx        # Project report
 ```
 
 ## Author
