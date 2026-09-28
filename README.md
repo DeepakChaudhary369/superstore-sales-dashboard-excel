@@ -131,9 +131,7 @@ Being upfront about these so the numbers are read correctly:
 │   ├── Sales.png
 │   └── Transactions.png
 ├── data/
-│   └── Warehouse_and_Retail_Sales.xlsx   # Global retail dataset (reference data)
-└── docs/
-    └── 12302841 excel report.docx        # Project report
+    └── Warehouse_and_Retail_Sales.xlsx   # Global retail dataset (reference data)
 ```
 
 ## Author
